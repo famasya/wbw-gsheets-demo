@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/wbw-gsheets-demo/static/js/runtime~main.88f385dc.js"
   },
   {
-    "revision": "7de8c4c48639084f899f1036a466fe35",
+    "revision": "d764089d09096f223fab0398dcb21d55",
     "url": "/wbw-gsheets-demo/index.html"
   }
 ];
