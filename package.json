@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "license": "MIT",
-  "homepage": "https://famasya.github.io/wbw-gsheets/",
+  "homepage": "https://famasya.github.io/wbw-gsheets-demo/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
