@@ -1,13 +1,13 @@
 {
-  "main.css": "/wbw-gsheets/static/css/main.af74388d.chunk.css",
-  "main.js": "/wbw-gsheets/static/js/main.d015e062.chunk.js",
-  "main.js.map": "/wbw-gsheets/static/js/main.d015e062.chunk.js.map",
-  "static/js/1.21d84d4a.chunk.js": "/wbw-gsheets/static/js/1.21d84d4a.chunk.js",
-  "static/js/1.21d84d4a.chunk.js.map": "/wbw-gsheets/static/js/1.21d84d4a.chunk.js.map",
-  "runtime~main.js": "/wbw-gsheets/static/js/runtime~main.1ade45b1.js",
-  "runtime~main.js.map": "/wbw-gsheets/static/js/runtime~main.1ade45b1.js.map",
-  "static/css/main.af74388d.chunk.css.map": "/wbw-gsheets/static/css/main.af74388d.chunk.css.map",
-  "index.html": "/wbw-gsheets/index.html",
-  "precache-manifest.98e0511bc47345a6df751f12c3a0a76f.js": "/wbw-gsheets/precache-manifest.98e0511bc47345a6df751f12c3a0a76f.js",
-  "service-worker.js": "/wbw-gsheets/service-worker.js"
+  "main.css": "/wbw-gsheets-demo/static/css/main.af74388d.chunk.css",
+  "main.js": "/wbw-gsheets-demo/static/js/main.d015e062.chunk.js",
+  "main.js.map": "/wbw-gsheets-demo/static/js/main.d015e062.chunk.js.map",
+  "static/js/1.21d84d4a.chunk.js": "/wbw-gsheets-demo/static/js/1.21d84d4a.chunk.js",
+  "static/js/1.21d84d4a.chunk.js.map": "/wbw-gsheets-demo/static/js/1.21d84d4a.chunk.js.map",
+  "runtime~main.js": "/wbw-gsheets-demo/static/js/runtime~main.88f385dc.js",
+  "runtime~main.js.map": "/wbw-gsheets-demo/static/js/runtime~main.88f385dc.js.map",
+  "static/css/main.af74388d.chunk.css.map": "/wbw-gsheets-demo/static/css/main.af74388d.chunk.css.map",
+  "index.html": "/wbw-gsheets-demo/index.html",
+  "precache-manifest.dc17f16055a12033834c8ab9d26df21d.js": "/wbw-gsheets-demo/precache-manifest.dc17f16055a12033834c8ab9d26df21d.js",
+  "service-worker.js": "/wbw-gsheets-demo/service-worker.js"
 }

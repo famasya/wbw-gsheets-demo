@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wbw-gsheets/precache-manifest.98e0511bc47345a6df751f12c3a0a76f.js"
+  "/wbw-gsheets-demo/precache-manifest.dc17f16055a12033834c8ab9d26df21d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/wbw-gsheets/index.html", {
+workbox.routing.registerNavigationRoute("/wbw-gsheets-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
